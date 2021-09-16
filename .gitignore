@@ -1,3 +1,6 @@
 ## Ignore data directories
 /genetic
 /out
+/bin/*.err
+/bin/*.out
+*~
